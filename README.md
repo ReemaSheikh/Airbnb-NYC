@@ -6,7 +6,7 @@
 
 Analyze the Airbnb NYC dataset to derive actionable insights that can help hosts optimize their revenue and occupancy rates, as well as assist Airbnb in promoting listings in various boroughs. This involves understanding host performance, room type preferences, and geographical trends to provide strategic recommendations for both hosts and the platform.
 
-By leveraging these insights, hosts can improve their financial performance, and Airbnb can enhance its platform's overall attractiveness to both hosts and guests.
+By leveraging the insights given, hosts can improve their financial performance, and Airbnb can enhance its platform's overall attractiveness to both hosts and guests.
 
 
 ### Steps followed 
